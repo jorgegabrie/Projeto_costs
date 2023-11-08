@@ -1,0 +1,40 @@
+{
+  "projects": [
+    {
+      "name": "teste 2",
+      "budget": "7000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "costs": 40,
+      "services": [
+        {
+          "name": "servico 22",
+          "costs": "40",
+          "Description": "servico 22",
+          "id": "5b805252-de19-408b-92ee-e4468aafe6da"
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
